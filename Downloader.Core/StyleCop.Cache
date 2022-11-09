@@ -1,0 +1,15 @@
+<stylecopresultscache>
+  <version>11</version>
+  <project key="1586136244">
+    <configuration>TRACE;DEBUG;CONTRACTS_FULL</configuration>
+  </project>
+  <sourcecode name="DownloadScheduler.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/09/2012 12:17:27</timestamp>
+      <milliseconds>323</milliseconds>
+    </settings>
+    <timestamp>06/09/2012 14:30:46</timestamp>
+    <milliseconds>954</milliseconds>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>
